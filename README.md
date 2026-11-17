@@ -1,6 +1,6 @@
 # Cyber Chase Technology
 
-**APS - Qualidade de Software**
+**APS - Engenharia de Software**
 
 - Autoras: Leticia Jesus e Julia Silva
 - Foco: planejamento e garantia de qualidade antes do desenvolvimento
