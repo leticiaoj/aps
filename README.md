@@ -113,19 +113,19 @@ Telas prototipadas antes do desenvolvimento:
 
 - Página inicial com o Cybot
 
-  ![Protótipo 7](docs/imagens/prototipo_7.jpg)
+  ![Protótipo 7](prototipo_7.jpg)
 
 - Sobre nós
 
-  ![Protótipo 8](docs/imagens/prototipo_8.jpg)
+  ![Protótipo 8](prototipo_8.jpg)
 
 - Nossos cursos
 
-  ![Protótipo 9](docs/imagens/prototipo_9.jpg)
+  ![Protótipo 9](prototipo_9.jpg)
 
 - Resultado do teste de phishing
 
-  ![Protótipo 10](docs/imagens/prototipo_10.jpg)
+  ![Protótipo 10](prototipo_10.jpg)
 
 ---
 
